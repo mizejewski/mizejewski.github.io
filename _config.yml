@@ -18,8 +18,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 891 Vermont Street
-  - line: San Francisco, CA 94107
+  - line:
+  - line: San Francisco, CA
 
 # Build settings
 markdown: kramdown
