@@ -11,8 +11,4 @@ description: Use this area of the page to describe your project. The icon above 
 
 <p><img class="img-centered" src="img/placeholder.png"></p>
 
-
-
-
-
 ---
