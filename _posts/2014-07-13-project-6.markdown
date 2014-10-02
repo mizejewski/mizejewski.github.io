@@ -7,6 +7,6 @@ alt: image-alt
 project-date: 2014
 client: UCSF Library
 category: user interface
-description: Study spaces page: Lots of wireframing with rapid versioning to increase usefulness. Study Spaces [original](http://www.library.ucsf.edu/services/spaces) and proposed<p><img class="img-responsive img-centered" src="img/portfolio/test3.jpg" alt="" height="500" width="700"></p>
+description: Study spaces page: Lots of wireframing with rapid versioning to increase usefulness. Study Spaces [original](http://www.library.ucsf.edu/services/spaces) and proposed<p><img class="img-responsive img-centered" src="img/portfolio/safe.jpg" alt="" height="500" width="700"></p>
 
 ---
