@@ -7,7 +7,6 @@ alt: image-alt
 project-date: 2014
 client: UCSF Library
 category: user research
-description: <h6>Audience</h6><p>To be able to set a direction and make improvements, the Web Projects Team really needed a better sense of our audience and the needs we were trying to meet. Through a combination of focused interviews, survey results, discussions with students, and using existing UCSF numbers, I was able to come up with a good approximation that is very useful in keeping us on course. More detail is captured in a blog<a href="https://blogs.library.ucsf.edu/ckm/2014/04/11/its-all-about-audience/">post.</a> Along with our <a href="https://wiki.library.ucsf.edu/display/LWP/Purpose+and+Guiding+Principles">Purpose and Guiding Principles,</a> we now have the beginnings of a content strategy.</p>
-<p><img class="img-centered" src="img/01audience.jpg" alt="" height="500" width="700"></p>
+description: <h6>Audience</h6><p>To be able to set a direction and make improvements, the Web Projects Team really needed a better sense of our audience and the needs we were trying to meet. Through a combination of focused interviews, survey results, discussions with students, and using existing UCSF numbers, I was able to come up with a good approximation that is very useful in keeping us on course. More detail is captured in a blog<a href="https://blogs.library.ucsf.edu/ckm/2014/04/11/its-all-about-audience/">post.</a> Along with our <a href="https://wiki.library.ucsf.edu/display/LWP/Purpose+and+Guiding+Principles">Purpose and Guiding Principles,</a> we now have the beginnings of a content strategy.</p><p><img class="img-centered" src="img/01audience.jpg" alt="" height="500" width="700"></p>
 
 ---
