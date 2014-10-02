@@ -7,6 +7,7 @@ alt: image-alt
 project-date: 2014
 client: UCSF Library
 category: user research
-description: <h6>Personas and User Tasks</h6>Et blue mountain, beans single shot white frappuccino brewed dripper. Grounds lungo shop robusta cultivar spoon milk. Extra doppio, bar doppio ristretto frappuccino half and half. Grinder ristretto white dripper frappuccino cinnamon mocha. Siphon, ut, percolator, eu con panna cream percolator mocha. Mocha et irish cinnamon wings milk con panna medium. Grounds mocha crema lungo, to go java mazagran extra variety. Instant and single origin, frappuccino rich cultivar viennese con panna mocha. Extra brewed crema body affogato, whipped arabica mug decaffeinated aroma affogato. Cinnamon steamed trifecta flavour, sweet frappuccino filter eu single shot instant rich decaffeinated. White arabica kopi-luwak, shop as mocha cream white. Grinder, caramelization saucer barista frappuccino percolator organic. <p><img class="img-centered" src="img/02personas.jpg" alt="" height="500" width="700"></p><p><img class="img-centered" src="img/02usertasks.jpg" alt="" height="500" width="700"></p>
+description: <h6>Personas and User Tasks</h6><p>Keeping with the theme of being sure we know what our audience(s) need from the library, I drove efforts to capture some of their tasks and possible frustrations. <a href="https://wiki.library.ucsf.edu/x/fIPbEw">Personas</a> and information were developed via brainstorming and discussions with a cross section of staff who serve various populations, as well as from talking with students.  </p>
+ <p><img class="img-centered" src="img/02personas.jpg" alt="" height="500" width="700"></p><p><img class="img-centered" src="img/02usertasks.jpg" alt="" height="500" width="700"></p>
 
 ---
